@@ -2,7 +2,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jayy-patell.visitor-badge)
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="https://github.com/jayy-patell/jayy-patell/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 🔭 I’m a college student doing CSE in Manipal Institue of Tech.
   - 🌱 I’m starting to learn Deep learning, TypeScript
@@ -13,6 +13,7 @@
 <h5>You can connect with me on: </h5>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patel-425219225/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jaypatell01/)
 
 ## Skills
 

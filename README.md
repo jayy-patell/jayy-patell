@@ -1,4 +1,5 @@
 <h1 align="center">Hi there👋, Jay here..</h1>
+
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jayy-patell.visitor-badge)
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
@@ -10,6 +11,7 @@
   - ⚡ Fun fact: Je connais un peu le français
 
 <h5>You can connect with me on: </h5>
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patel-425219225/)
 
 ## Skills
@@ -39,9 +41,9 @@
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 ### 📊 Github Stats
-<a href='https://github.com/jayy-patell/github-stats-transparent'>
+<a href='https://github.com/jayy-patell/github-stats'>
   
-![Jay's Github Stats](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Jay's Languages](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Jay's Github Stats](https://raw.githubusercontent.com/jayy-patell/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Jay's Languages](https://raw.githubusercontent.com/jayy-patell/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 

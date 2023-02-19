@@ -1,7 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there👋, Jay here..</h1>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jayy-patell.visitor-badge)
 
-I am Jay Patel, a college student based out of Manipal Institute of Tech. Having firm grip in full-stack web development,
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+  
+  - 🔭 I’m a college student doing CSE in Manipal Institue of Tech.
+  - 🌱 I’m starting to learn Deep learning, TypeScript
+  - 💬 Talk to me about [Geoguessr], football and Tintin comics
+  - 😄 Pronouns: He / Him
+  - ⚡ Fun fact: Je connais un peu le français
 
+<h5>You can connect with me on: </h5>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patel-425219225/)
 
 ## Skills
@@ -30,9 +38,10 @@ I am Jay Patel, a college student based out of Manipal Institute of Tech. Having
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-## Stats
+### 📊 Github Stats
+<a href='https://github.com/jayy-patell/github-stats-transparent'>
+  
+![Jay's Github Stats](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Jay's Languages](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jayy-patell&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayy-patell&layout=compact)](https://github.com/jayy-patell/github-readme-stats)
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jayy-patell.visitor-badge)

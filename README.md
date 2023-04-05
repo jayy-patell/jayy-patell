@@ -5,8 +5,8 @@
 <img src="https://github.com/jayy-patell/jayy-patell/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 🔭 I’m a college student doing CSE in Manipal Institue of Tech.
-  - 🌱 I’m starting to learn Deep learning, TypeScript
-  - 💬 Talk to me about [Geoguessr], football and Tintin comics
+  - 🌱 I’m starting to learn Deep learning, API's and cloud
+  - 💬 Talk to me about Geoguessr, football and classic movies
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: Je connais un peu le français
 

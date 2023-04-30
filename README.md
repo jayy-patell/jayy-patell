@@ -43,7 +43,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Github Sparkline
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+[![Sparkline](https://stars.medv.io/jayy-patell/badges.svg)](https://stars.medv.io/jayy-patell/badges)
 
 ### 📊 Github Stats
 <a href='https://github.com/jayy-patell/github-stats'>

@@ -5,7 +5,7 @@
 <img src="https://github.com/jayy-patell/jayy-patell/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 🔭 I’m a college student doing CSE in Manipal Institue of Tech.
-  - 🌱 I’m starting to learn Deep learning, API's and cloud
+  - 🌱 I’m starting to learn Deep learning, API's and GraphQL
   - 💬 Talk to me about Geoguessr, football and classic movies
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: Je connais un peu le français
@@ -37,13 +37,11 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
-### Github Sparkline
-[![Sparkline](https://stars.medv.io/jayy-patell/badges.svg)](https://stars.medv.io/jayy-patell/badges)
 
 ### 📊 Github Stats
 <a href='https://github.com/jayy-patell/github-stats'>

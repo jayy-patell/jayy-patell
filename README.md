@@ -1,7 +1,5 @@
 <h1 align="center">Hi there👋, Jay here..</h1>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jayy-patell.visitor-badge)
-
 <img src="https://github.com/jayy-patell/jayy-patell/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 🔭 I’m a college student doing CSE in Manipal Institue of Tech.

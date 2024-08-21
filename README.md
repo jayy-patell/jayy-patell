@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, Jay here..</h1>
+<h1 align="center">Heyy there👋, Jay here..</h1>
 
 <img src="https://github.com/jayy-patell/jayy-patell/blob/main/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
